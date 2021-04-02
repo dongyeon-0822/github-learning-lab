@@ -1,2 +1,2 @@
 https://github.com/dongyeon-0822
-[text](https://example.com)
+[text](https://github.com)
